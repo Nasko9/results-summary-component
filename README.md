@@ -6,7 +6,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/basic-card-ui-created-in-react-typescript-and-materialui-qSt7gc-xDI)
 - Live Site URL: [Live site URL](https://main--dancing-bavarois-cd082b.netlify.app/)
 
 ### Built with
